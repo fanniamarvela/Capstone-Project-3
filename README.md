@@ -1,4 +1,4 @@
-# Capstone-Project-3
+# Daegu Apartment Machine Learning Model
 
 Kota Daegu  merupakan sebuah kota di Korea Selatan dengan jumlah penduduk lebih dari 2,5 juta orang. Sebagai kota metropolitan terbesar ke-3 di Korea Selatan, apartment merupakan salah satu jawaban atas kebutuhan hunian masyarakat modern akibat keterbatasan lahan hunian dan padatnya aktivitas bisnis di perkotaan. Selain itu pada tahun 2020, indeks harga apartment di Kota Daegu adalah 88,2, atau tumbuh 1,9% dibandingkan tahun sebelumnya sehingga hal tersebut menunjukkan pertumbuhan potensi penjualan apartment dan minat pembelian apartment di Kota Daegu. 
 
